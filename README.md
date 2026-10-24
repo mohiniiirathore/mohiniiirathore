@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohini 👋
 
-<!--
-**mohiniiirathore/mohiniiirathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Currently learning C++ and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in Software Development and AI/ML
+
+🎯 Working towards my first internship
+
+## Skills I'm Learning
+- C++
+- Python
+- Data Structures & Algorithms
+- Git and GitHub
+
+## Current Goals
+- Strengthen programming fundamentals
+- Solve coding problems consistently
+- Build projects and learn by doing
